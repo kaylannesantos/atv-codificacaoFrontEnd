@@ -1,4 +1,4 @@
 ### atv-codificacaoFrontEnd - Senai Full Stack
 ---
-- Desafio 01
-- Desafio 02
+- Desafio 01 - Usando o Figma
+- Desafio 02 - Codificação *html - css - javascript*
