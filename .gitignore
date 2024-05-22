@@ -1,0 +1,3 @@
+#ignorar arquivos temporários do sistema
+*.log
+*.json
